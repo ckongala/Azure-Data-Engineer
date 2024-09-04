@@ -4,6 +4,7 @@ To become an Azure Data Engineer, you need to build a strong foundation in data 
 ### 1. **Understand Data Engineering Basics**
    - **Data Engineering Overview:** Learn about the role of a data engineer, the importance of data engineering, and the typical tasks involved.
    - **Data Engineering Concepts:** Understand key concepts such as data pipelines, ETL (Extract, Transform, Load), data warehousing, and data lakes.
+**Look Data-Ware-house repo (https://github.com/ckongala/Data-Warehouse-Concepts)**
 
 ### 2. **Learn Core Data Engineering Skills**
    - **SQL (Structured Query Language):** Master SQL for querying and managing relational databases.
